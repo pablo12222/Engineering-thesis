@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the work and resources related to my engineer's thesis titled **"Development of an electronic optimizer to control pump operation."** The engineering thesis focuses on the development and construction of an electronic
+This repository contains the work and resources related to my engineering thesis titled **"Development of an electronic optimizer to control pump operation."** The engineering thesis focuses on the development and construction of an electronic
 (microprocessor-based) model of a setpoint controller for regulating pump performance.
 The device will be implemented using a selected microcontroller with appropriately
 designed input/output interfaces to interact with external devices and facilitate user
