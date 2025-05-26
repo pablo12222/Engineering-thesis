@@ -58,6 +58,7 @@ Ideological diagram of the operation of the transmitter:
 ![schemat_ideowy](https://github.com/user-attachments/assets/c2d1209e-85c5-4ffe-b2f0-f4ce78c95f2d)
 
 ---
+
 The PCB was made with autodesk EAGLE software:
 
 ![image](https://github.com/user-attachments/assets/13723be6-2ca8-4146-8920-11aca1bb97d5)
@@ -66,7 +67,9 @@ The PCB was made with autodesk EAGLE software:
     <img src="https://github.com/user-attachments/assets/fd7f85c7-38e4-475d-854b-63d1b326d045" alt="Experimental Result2" width="35%">
     <img src="https://github.com/user-attachments/assets/9ef2dc24-f0ac-489c-9a90-6f6c858d2810" alt="Experimental Result3" width="33%">
 </div>
+
 ---
+
 The PCB enclosure was made in Autodesk Inventor:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/d58c9f94-f928-4e89-831e-e9584cb7545a" alt="Experimental Result1" width="28%">
