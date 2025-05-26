@@ -2,7 +2,11 @@
 
 ## Introduction
 
-This repository contains the work and resources related to my engineering thesis titled **"Development of an electronic optimizer to control pump operation."** The engineering thesis focuses on the development and construction of an electronic
+This repository contains the work and resources related to my engineering thesis titled **"Development of an electronic optimizer to control pump operation."** 
+
+## Abstract 
+
+The engineering thesis focuses on the development and construction of an electronic
 (microprocessor-based) model of a setpoint controller for regulating pump performance.
 The device will be implemented using a selected microcontroller with appropriately
 designed input/output interfaces to interact with external devices and facilitate user
@@ -18,4 +22,6 @@ inputs 0 − 10 V, and one analog output 0 − 10 V, ensuring precise control an
 adaptation of pump performance to operational requirements. The device operates in
 two modes: automatic and manual. As part of the thesis, functional tests will be
 conducted using available measurement instruments and voltage generators to verify the
-correct operation and compliance of the device with the design assumptions. 
+correct operation and compliance of the device with the design assumptions. The task is
+carried out in accordance with the guidelines and for the purposes of BELIMO -
+BELIMO Siłowniki S.A.
